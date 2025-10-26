@@ -4,7 +4,7 @@ This project is a machine learning web application that predicts an employee's s
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 - Predicts salary in real-time
 - Clean and interactive UI using Streamlit
